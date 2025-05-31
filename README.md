@@ -38,8 +38,9 @@ This is a customized version of the **Shelyak-Light** Conky theme, originally cr
 This modified version of Shelyak-Light retains the original minimal aesthetic while introducing practical enhancements for usability, visibility, and customization. All credits for the original design and scripting go to the creator, Closebox73.
 
 ---
-file:///home/aneesh/Downloads/WhatsApp%20Image%202025-05-31%20at%2009.10.50.jpeg
+## Final Desktop View
 
+![final_view](https://github.com/aneeshkp246/Shylak-Theme_Gnome/blob/main/Shelyak-Light/final_view.jpeg?raw=true)
 ---
 
 ## Preview
